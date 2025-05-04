@@ -3,7 +3,7 @@ The best script for creature chaos, join: https://discord.gg/T57cbGDJZb
 
 # IMAGES
 
-![image](https://github.com/user-attachments/assets/2e58bf73-5c20-478b-88bf-119a21b2b87b)
+![image](https://github.com/user-attachments/assets/8b587c58-f280-4a1d-948c-aa4dd68e6a19)
 
 # IMPORTANT
 
