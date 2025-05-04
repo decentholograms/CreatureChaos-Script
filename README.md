@@ -11,7 +11,7 @@ This script was tested with jjsploit but should work on other executors.
 
 # EXECUTE SCRIPT
 
-`loadstring(game:HttpGet("https://raw.githubusercontent.com/decentholograms/CreatureChaos-Script/refs/heads/main/Creaturechaos.lua", true))()`
+`loadstring(game:HttpGet("https://raw.githubusercontent.com/decentholograms/CreatureChaos-Script/refs/heads/main/creaturechaos.lua", true))()`
 
 
 
